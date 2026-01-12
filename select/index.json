@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Rally Go Round",
+  "base_artist": "LiSA",
+  "createdAt": "2026-01-12T13:39:48.081202Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Rally Go Round",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/01_Rally_Go_Round_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Rally Go Round (Live at Toyosu Pit 2015)",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/02_Rally_Go_Round_(Live_at_Toyosu_Pit_2015)_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Rally Go Round (feat. Yuzuki Yukari) [dj-Jo Remix]",
+      "artist": "dj-Jo",
+      "has_synced": false,
+      "path": "select/03_Rally_Go_Round_(feat._Yuzuki_Yukari)_[dj-Jo_Remix]_dj-Jo.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Rally Go Round",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/04_Rally_Go_Round_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Rally Go Round",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/05_Rally_Go_Round_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Rally Go Round (dj-Jo Remix)",
+      "artist": "dj-Jo",
+      "has_synced": false,
+      "path": "select/06_Rally_Go_Round_(dj-Jo_Remix)_dj-Jo.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Rally Go Round",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/07_Rally_Go_Round_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Rally Go Round",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/08_Rally_Go_Round_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Rally Go Round (From \"Nisekoi\")",
+      "artist": "Jonathan Parecki",
+      "has_synced": false,
+      "path": "select/09_Rally_Go_Round_(From__Nisekoi_)_Jonathan_Parecki.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Rally Go Round",
+      "artist": "LiSA",
+      "has_synced": false,
+      "path": "select/pl_01_Rally_Go_Round_LiSA.txt"
+    }
+  ]
+}
